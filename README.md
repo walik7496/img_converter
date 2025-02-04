@@ -15,12 +15,6 @@ A simple graphical user interface (GUI) to convert and resize images using Pytho
 - **Pillow**: Python Imaging Library (PIL) fork
 - **python-magic**: Used to detect MIME type of the image files
 
-Install the required Python libraries using `pip`:
-
-```bash
-pip install pillow python-magic
-```
-
 # Installation
 
 Install Python 3.x: [Download Python](https://www.python.org/downloads/)
